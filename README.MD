@@ -1,9 +1,9 @@
-# 如何使用
+# 与github一样风格的markdown css文件
 
 ## 安装
 
 ```
-$ git clone @https://github.com/KeepPassionAlways/animations.git
+$ git clone @https://github.com/KeepPassionAlways/github-markdown-theme---css.git
 ```
 
 `preference` - `setting` 中加入这段代码
