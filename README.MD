@@ -6,7 +6,7 @@
 $ git clone @https://github.com/KeepPassionAlways/github-markdown-theme---css.git
 ```
 
-`preference` - `setting` 中加入这段代码
+`vscode` - `preference` - `setting` 中加入这段代码
 
 ```
 "markdown.styles": [
