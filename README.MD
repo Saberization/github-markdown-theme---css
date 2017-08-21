@@ -10,7 +10,7 @@ $ git clone @https://github.com/KeepPassionAlways/github-markdown-theme---css.gi
 
 ```
 "markdown.styles": [
-    "/Users/Tim/.vscode/extensions/github-markdown.css"
+    "/Users/Arturia/.vscode/extensions/github-markdown.css"
 ]
 ```
 
