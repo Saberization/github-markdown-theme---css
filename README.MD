@@ -3,7 +3,7 @@
 ## 安装
 
 ```
-$ git clone @https://github.com/KeepPassionAlways/github-markdown-theme---css.git
+$ git clone @https://github.com/Saberization/github-markdown-theme---css.git
 ```
 
 `vscode` - `preference` - `setting` 中加入这段代码
